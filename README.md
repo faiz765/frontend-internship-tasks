@@ -1,4 +1,3 @@
-# frontend-internship-tasks
 # Frontend Internship Tasks
 
 Projects:
